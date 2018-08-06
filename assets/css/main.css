@@ -17,7 +17,7 @@ h5,
 h6 {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  color: #dfe0e1;
+  color: #ffffff;
 }
 
 /* Paragraph & Typographic */
@@ -32,7 +32,7 @@ p {
 
 /* Links */
 a {
-  color: #dfe0e1;
+  color: #e1cbd4;
   word-wrap: break-word;
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
   -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -70,8 +70,16 @@ h1 {
   font-size: 57px;
 }
 
+h2 {
+	font-size: 26px;
+		color: #e1cbd4;
+
+}
+
 h4 {
 	margin-top: 15px;
+	font-size: 17px;
+	color: #bc93a3;
 }
 .w {
   margin-top: 30px;
