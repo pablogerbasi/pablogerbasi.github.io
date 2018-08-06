@@ -32,7 +32,7 @@ p {
 
 /* Links */
 a {
-  color: #d1b2d1;
+  color: #dfe0e1;
   word-wrap: break-word;
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
   -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -42,7 +42,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #7b7b7b;
+  color: #f772a9;
   text-decoration: none;
   outline: 0;
 }
@@ -67,14 +67,18 @@ hr {
   margin-top: 25px;
 }
 h1 {
-  font-size: 70px;
+  font-size: 57px;
+}
+
+h4 {
+	margin-top: 15px;
 }
 .w {
-  margin-top: 60px;
+  margin-top: 30px;
 }
 .w.tooltip-demo {
   font-size: 1.5em;
 }
 .w i {
-  padding: 12px;
+  padding: 6px;
 }
